@@ -82,7 +82,7 @@ The basic expectation of this assignment is that you will use Spring Boot and Sp
 5. It should follow common Java best practices in terms of documentation, style, and use of collections and design patterns
 6. It should use JDK version 1.7 or 1.8.
 7. Some basic exception handling should be provided, including use of standard HTTP status codes to indicate when a query parameter is unacceptable, for example
-
+8. To test out the API you can use Postman App (www.getpostman.com).
 
 --------------------
 #### General Advice
